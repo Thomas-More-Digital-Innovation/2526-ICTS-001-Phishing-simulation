@@ -36,7 +36,7 @@ The phishing simulation dashboard provides a central location to manage active, 
 ![Phishing Simulation Dashboard](1.png)
 
 ### 2. Template Selection
-Wizer provides a variety of modern templates, including themes related to AI (Deepseek), social media, and corporate tools.
+Wizer provides a variety of modern templates, including themes related to AI, social media, and corporate tools.
 ![Choose Templates](2.png)
 
 ### 3. Email Customization
