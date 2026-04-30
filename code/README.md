@@ -96,3 +96,10 @@ The dashboard provides a high-level summary of the simulation's impact, includin
 
 ![Campaign Overview](./simulation-overview.png)
 
+---
+
+## Sources
+
+- **Microsoft Documentation:** [Get started with Attack simulation training](https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started)
+- **Video Tutorial:** [How to use Attack Simulation Training in Microsoft 365](https://www.youtube.com/watch?v=zB_O-6bwZbc)
+
