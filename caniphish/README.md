@@ -75,6 +75,5 @@ The free plan has the following limitations:
 
 See [Caniphish Pricing](https://caniphish.com/platform/pricing) for more information.
 
-## Setup & Deployment
-- **Deployment Options:** Supports both traditional **Allowlisting** (IPs/Headers) and  **Direct Email Injection** via the Microsoft 365 Graph API for reliable delivery.
-- **Quick Reference:** A comprehensive [Knowledge Base](https://help.caniphish.com/) is available, including specific guides for [Microsoft Entra ID Synchronization](https://help.caniphish.com/hc/en-us/articles/4412685120911-Azure-AD-Employee-Directory-Synchronisation) and [M365 Direct Email Injection](https://help.caniphish.com/hc/en-us/articles/8548753938319-Microsoft-365-Direct-Email-Injection-Setup-Guide).
+## Documentation
+A comprehensive [Knowledge Base](https://help.caniphish.com/) is available, including specific guides for [Microsoft Entra ID Synchronization](https://help.caniphish.com/hc/en-us/articles/4412685120911-Azure-AD-Employee-Directory-Synchronisation) and [M365 Direct Email Injection](https://help.caniphish.com/hc/en-us/articles/8548753938319-Microsoft-365-Direct-Email-Injection-Setup-Guide).
