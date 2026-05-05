@@ -47,6 +47,7 @@ HailBytes SAT (formerly **Gophish Cloud**) is a professional version of the open
 *   **Entra ID Synchronization (SCIM 2.0)**: Unlike the open-source version, HailBytes SAT allows you to sync users directly from Microsoft Entra ID. This eliminates the need for manual entry or custom API scripts.
 *   **Single Sign-On (SSO)**: Administrators can log in using their Thomas More Microsoft accounts via SAML/OIDC.
 *   **Single-Click Deployment**: HailBytes SAT can be deployed instantly from the **Azure Marketplace** or **AWS Marketplace** as a pre-configured Virtual Machine. This avoids the manual infrastructure setup required for standard Gophish.
+    *   [Azure Marketplace Link](https://marketplace.microsoft.com/nl-nl/product/lcmcon1687976613543.gophish-phishing-simulator?tab=overview)
 *   **SMTP Still Required**: While the infrastructure is managed, you still need to configure your own **SMTP Server** (same as Gophish) to send the emails.
 
 For more details, see the [HailBytes SAT Quickstart](https://hailbytes.com/tutorials/sat-quickstart/).
