@@ -19,7 +19,7 @@ The following table lists the simulators identified for evaluation, including th
 
 | Tool | Type | Status | Key Characteristics | Documentation |
 | :--- | :--- | :--- | :--- | :--- |
-| **Microsoft 365 Defender** | Cloud / Integrated | ✅ Tested | Native M365 integration, credential harvesting, automated training. | [View](./m365defender/README.md) |
-| **GoPhish** | Open Source | ⏳ To be tested | Highly flexible, self-hosted. | - |
-| **Wizer (Free Edition)** | Cloud | ✅ Tested | Free edition (10 day trial), limited features. | [View](./wizer/README.md) |
-| **CanIPhish** | Cloud | ✅ Tested | AI-powered simulations, 10-user free tier. | [View](./caniphish/README.md) |
+| **Microsoft 365 Defender** | Cloud / Integrated | Tested | Native M365 integration, credential harvesting, automated training. | [View](./m365defender/README.md) |
+| **GoPhish** | Open Source | Tested | Highly flexible, self-hosted, manual user/SMTP setup required. | [View](./gophish/README.md) |
+| **Wizer (Free Edition)** | Cloud | Tested | Free edition (10 day trial), limited features. | [View](./wizer/README.md) |
+| **CanIPhish** | Cloud | Tested | AI-powered simulations, 10-user free tier. | [View](./caniphish/README.md) |
