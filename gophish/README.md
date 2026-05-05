@@ -32,7 +32,9 @@ Gophish does not provide an integrated mail delivery service. It acts only as a 
 
 ## Conclusion
 
-Gophish is an excellent tool for **advanced users** who require total control over their data and simulation flow. However, for a university environment looking for a streamlined process to target thousands of students, the lack of native Entra ID integration and the requirement for a dedicated SMTP relay makes it a high-maintenance choice compared to integrated cloud alternatives.
+Gophish is an excellent tool for **advanced users** who require total control over their data and simulation flow. However, for a university environment looking for a streamlined process to target thousands of students, the lack of native Entra ID integration and the requirement for a dedicated SMTP relay makes it a high-maintenance choice.
+
+Due to these hurdles and the significant setup overhead, I did not investigate the manual Gophish configuration further, as it likely does not align with the needs of Thomas More ICTS.
 
 ---
 
